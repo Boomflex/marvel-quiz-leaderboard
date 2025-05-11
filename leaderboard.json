@@ -1,4 +1,472 @@
 {
-  "Boomflex": {"points": 123, "wins": 20, "chaos_wins": 5},
-  "AnotherPlayer": {"points": 87, "wins": 15, "chaos_wins": 3}
+  "224530867341623298": {
+    "points": 10,
+    "wins": 2,
+    "chaos_wins": 0
+  },
+  "107637321326686208": {
+    "points": 5,
+    "wins": 3,
+    "chaos_wins": 0
+  },
+  "911707795651452989": {
+    "points": 187,
+    "wins": 47,
+    "chaos_wins": 9
+  },
+  "363763796629782548": {
+    "points": 104,
+    "wins": 45,
+    "chaos_wins": 8
+  },
+  "145971157902950401": {
+    "points": 75,
+    "wins": 18,
+    "chaos_wins": 2
+  },
+  "517749429726609433": {
+    "points": 11,
+    "wins": 7,
+    "chaos_wins": 0
+  },
+  "146017154959933440": {
+    "points": 7,
+    "wins": 2,
+    "chaos_wins": 0
+  },
+  "1066521964866437150": {
+    "points": 50,
+    "wins": 16,
+    "chaos_wins": 4
+  },
+  "1103545471135399996": {
+    "points": 33,
+    "wins": 11,
+    "chaos_wins": 4
+  },
+  "609590713168166922": {
+    "points": 15,
+    "wins": 5,
+    "chaos_wins": 1
+  },
+  "162305901892599809": {
+    "points": 2,
+    "wins": 1,
+    "chaos_wins": 1
+  },
+  "455404638468833308": {
+    "points": 23,
+    "wins": 6,
+    "chaos_wins": 1
+  },
+  "407330036044005377": {
+    "points": 6,
+    "wins": 2,
+    "chaos_wins": 0
+  },
+  "961422825414090803": {
+    "points": 14,
+    "wins": 3,
+    "chaos_wins": 1
+  },
+  "1212704683156701184": {
+    "points": 79,
+    "wins": 34,
+    "chaos_wins": 6
+  },
+  "218706998806577152": {
+    "points": 14,
+    "wins": 7,
+    "chaos_wins": 2
+  },
+  "339646608453009409": {
+    "points": 2,
+    "wins": 1,
+    "chaos_wins": 1
+  },
+  "318277004023562250": {
+    "points": 4,
+    "wins": 3,
+    "chaos_wins": 0
+  },
+  "897056918768586772": {
+    "points": 11,
+    "wins": 5,
+    "chaos_wins": 1
+  },
+  "977031843717201951": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "126491358239129600": {
+    "points": 27,
+    "wins": 13,
+    "chaos_wins": 2
+  },
+  "932182321740800021": {
+    "points": 43,
+    "wins": 18,
+    "chaos_wins": 4
+  },
+  "571737023904481300": {
+    "points": 47,
+    "wins": 16,
+    "chaos_wins": 4
+  },
+  "433410316244615170": {
+    "points": 4,
+    "wins": 3,
+    "chaos_wins": 1
+  },
+  "460728347329167371": {
+    "points": 37,
+    "wins": 18,
+    "chaos_wins": 3
+  },
+  "184670266633355264": {
+    "points": 11,
+    "wins": 6,
+    "chaos_wins": 2
+  },
+  "625372925540696079": {
+    "points": 13,
+    "wins": 5,
+    "chaos_wins": 1
+  },
+  "395962146082521111": {
+    "points": 17,
+    "wins": 7,
+    "chaos_wins": 1
+  },
+  "1127938089336180840": {
+    "points": 4,
+    "wins": 3,
+    "chaos_wins": 1
+  },
+  "110565018998697984": {
+    "points": 11,
+    "wins": 5,
+    "chaos_wins": 0
+  },
+  "916544145022124092": {
+    "points": 4,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "215909192437989376": {
+    "points": 85,
+    "wins": 27,
+    "chaos_wins": 5
+  },
+  "287296262263537675": {
+    "points": 2,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "306256666502889482": {
+    "points": 2,
+    "wins": 2,
+    "chaos_wins": 0
+  },
+  "212761523733397504": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "349194473101721601": {
+    "points": 107,
+    "wins": 31,
+    "chaos_wins": 5
+  },
+  "799023865203392552": {
+    "points": 2,
+    "wins": 2,
+    "chaos_wins": 0
+  },
+  "184762980850860032": {
+    "points": 5,
+    "wins": 4,
+    "chaos_wins": 1
+  },
+  "309028774232719363": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "410593452649086976": {
+    "points": 3,
+    "wins": 3,
+    "chaos_wins": 0
+  },
+  "914607449233842177": {
+    "points": 27,
+    "wins": 17,
+    "chaos_wins": 3
+  },
+  "460898540848414731": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "196026778332954626": {
+    "points": 3,
+    "wins": 3,
+    "chaos_wins": 0
+  },
+  "558635400348827659": {
+    "points": 14,
+    "wins": 13,
+    "chaos_wins": 1
+  },
+  "618125258159030282": {
+    "points": 8,
+    "wins": 4,
+    "chaos_wins": 0
+  },
+  "279366869318893569": {
+    "points": 16,
+    "wins": 11,
+    "chaos_wins": 1
+  },
+  "139110478868774922": {
+    "points": 24,
+    "wins": 18,
+    "chaos_wins": 3
+  },
+  "1164242985349828728": {
+    "points": 23,
+    "wins": 10,
+    "chaos_wins": 3
+  },
+  "868288731596095488": {
+    "points": 4,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "474451086086897665": {
+    "points": 2,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "633377083766079528": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "694211039616565298": {
+    "points": 11,
+    "wins": 6,
+    "chaos_wins": 1
+  },
+  "93057503272656896": {
+    "points": 2,
+    "wins": 1,
+    "chaos_wins": 1
+  },
+  "112928241093738496": {
+    "points": 2,
+    "wins": 1,
+    "chaos_wins": 1
+  },
+  "308245652687683584": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "142834054671237120": {
+    "points": 39,
+    "wins": 16,
+    "chaos_wins": 2
+  },
+  "390307138200666134": {
+    "points": 25,
+    "wins": 14,
+    "chaos_wins": 2
+  },
+  "597927100015706123": {
+    "points": 13,
+    "wins": 12,
+    "chaos_wins": 1
+  },
+  "346333322344923136": {
+    "points": 14,
+    "wins": 11,
+    "chaos_wins": 1
+  },
+  "236697598654808064": {
+    "points": 20,
+    "wins": 7,
+    "chaos_wins": 0
+  },
+  "237238609843978242": {
+    "points": 12,
+    "wins": 5,
+    "chaos_wins": 1
+  },
+  "894475160143409153": {
+    "points": 3,
+    "wins": 2,
+    "chaos_wins": 1
+  },
+  "848274198359310396": {
+    "points": 4,
+    "wins": 3,
+    "chaos_wins": 1
+  },
+  "610065475795288080": {
+    "points": 2,
+    "wins": 1,
+    "chaos_wins": 1
+  },
+  "331594046411898881": {
+    "points": 2,
+    "wins": 1,
+    "chaos_wins": 1
+  },
+  "530245208856723506": {
+    "points": 8,
+    "wins": 7,
+    "chaos_wins": 1
+  },
+  "425318432762757121": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "467576247015309332": {
+    "points": 2,
+    "wins": 2,
+    "chaos_wins": 0
+  },
+  "867234082132197417": {
+    "points": 11,
+    "wins": 8,
+    "chaos_wins": 1
+  },
+  "341676971400495114": {
+    "points": 8,
+    "wins": 7,
+    "chaos_wins": 1
+  },
+  "1175197868034904138": {
+    "points": 14,
+    "wins": 10,
+    "chaos_wins": 1
+  },
+  "809363911954399282": {
+    "points": 11,
+    "wins": 3,
+    "chaos_wins": 1
+  },
+  "391294637371031552": {
+    "points": 9,
+    "wins": 5,
+    "chaos_wins": 2
+  },
+  "1141515910855786496": {
+    "points": 5,
+    "wins": 4,
+    "chaos_wins": 1
+  },
+  "1239097387797188628": {
+    "points": 4,
+    "wins": 3,
+    "chaos_wins": 1
+  },
+  "516727739546468362": {
+    "points": 9,
+    "wins": 6,
+    "chaos_wins": 1
+  },
+  "209103604374700033": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "545724992298549268": {
+    "points": 12,
+    "wins": 3,
+    "chaos_wins": 1
+  },
+  "1055093897430302741": {
+    "points": 4,
+    "wins": 3,
+    "chaos_wins": 1
+  },
+  "371902971258339329": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "154778377738387456": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "191346592928890881": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "561773256529412096": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "1348323214027128872": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "531859849663873024": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "886960028253315072": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "1121646682237583440": {
+    "points": 4,
+    "wins": 2,
+    "chaos_wins": 0
+  },
+  "287792492693291009": {
+    "points": 2,
+    "wins": 2,
+    "chaos_wins": 0
+  },
+  "892593536078331954": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "116461732389584901": {
+    "points": 7,
+    "wins": 2,
+    "chaos_wins": 0
+  },
+  "335977175150886912": {
+    "points": 14,
+    "wins": 5,
+    "chaos_wins": 1
+  },
+  "457544639356862464": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  },
+  "528250842172882965": {
+    "points": 2,
+    "wins": 1,
+    "chaos_wins": 1
+  },
+  "756515239327039528": {
+    "points": 1,
+    "wins": 1,
+    "chaos_wins": 0
+  }
 }
