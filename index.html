@@ -57,7 +57,7 @@
 
         sorted.forEach(([userId, stats], i) => {
           const medal = medals[i] || `#${i + 1}`;
-          const name = `Player ${userId.slice(-4)}`; // fallback if no real names
+          const name = userId;
           const item = document.createElement('li');
 
           item.innerHTML = `
