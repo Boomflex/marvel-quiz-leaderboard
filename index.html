@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Marvel Quiz Leaderboard</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0d1117;
+      color: #c9d1d9;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      color: #58a6ff;
+    }
+    ol {
+      padding-left: 0;
+    }
+    li {
+      list-style: none;
+      background: #161b22;
+      margin: 10px 0;
+      padding: 12px 18px;
+      border-radius: 8px;
+      font-size: 1.1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .rank {
+      font-weight: bold;
+      margin-right: 10px;
+    }
+    .medal {
+      font-size: 1.2rem;
+      margin-right: 8px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🏆 Marvel Quiz Leaderboard</h1>
+  <ol id="leaderboard"></ol>
+
+  <script>
+    fetch('leaderboard.json')
+      .then(res => res.json())
+      .then(data => {
+        const entries = Object.entries(data);
+        const sorted = entries.sort(([, a], [, b]) => b.points - a.points).slice(0, 10);
+        const medals = ['🥇', '🥈', '🥉'];
+
+        const leaderboard = document.getElementById('leaderboard');
+
+        sorted.forEach(([userId, stats], i) => {
+          const medal = medals[i] || `#${i + 1}`;
+          const name = `Player ${userId.slice(-4)}`; // fallback if no real names
+          const item = document.createElement('li');
+
+          item.innerHTML = `
+            <span>
+              <span class="medal">${medal}</span>
+              <span class="rank">${name}</span>
+            </span>
+            <span>${stats.points} pts • ${stats.wins} wins</span>
+          `;
+
+          leaderboard.appendChild(item);
+        });
+      });
+  </script>
+</body>
+</html>
